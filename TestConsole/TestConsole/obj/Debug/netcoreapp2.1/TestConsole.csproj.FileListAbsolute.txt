@@ -1,0 +1,11 @@
+C:\Users\deadmaggi\source\repos\TestConsole\TestConsole\bin\Debug\netcoreapp2.1\TestConsole.deps.json
+C:\Users\deadmaggi\source\repos\TestConsole\TestConsole\bin\Debug\netcoreapp2.1\TestConsole.runtimeconfig.json
+C:\Users\deadmaggi\source\repos\TestConsole\TestConsole\bin\Debug\netcoreapp2.1\TestConsole.runtimeconfig.dev.json
+C:\Users\deadmaggi\source\repos\TestConsole\TestConsole\bin\Debug\netcoreapp2.1\TestConsole.dll
+C:\Users\deadmaggi\source\repos\TestConsole\TestConsole\bin\Debug\netcoreapp2.1\TestConsole.pdb
+C:\Users\deadmaggi\source\repos\TestConsole\TestConsole\obj\Debug\netcoreapp2.1\TestConsole.csprojAssemblyReference.cache
+C:\Users\deadmaggi\source\repos\TestConsole\TestConsole\obj\Debug\netcoreapp2.1\TestConsole.csproj.CoreCompileInputs.cache
+C:\Users\deadmaggi\source\repos\TestConsole\TestConsole\obj\Debug\netcoreapp2.1\TestConsole.AssemblyInfoInputs.cache
+C:\Users\deadmaggi\source\repos\TestConsole\TestConsole\obj\Debug\netcoreapp2.1\TestConsole.AssemblyInfo.cs
+C:\Users\deadmaggi\source\repos\TestConsole\TestConsole\obj\Debug\netcoreapp2.1\TestConsole.dll
+C:\Users\deadmaggi\source\repos\TestConsole\TestConsole\obj\Debug\netcoreapp2.1\TestConsole.pdb
